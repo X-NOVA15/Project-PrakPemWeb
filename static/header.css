@@ -1,0 +1,6 @@
+/* Diatur di static/css/style.css */
+header {
+  position: sticky; top: 0; z-index: 100;
+  backdrop-filter: blur(20px) saturate(140%);
+  border-radius: var(--r-pill);
+}
